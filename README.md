@@ -147,8 +147,11 @@ me.say_hi()
 ## 🏅 Competitive Programming
 
 <p align="center">
-  <a href="https://codeforces.com/profile/sa7afy">
+  <a href="https://codeforces.com/profile/Sa7afy22">
     <img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://vjudge.net/user/Sa7afy">
+    <img src="https://img.shields.io/badge/VJudge-Online_Judge-FFA116?style=for-the-badge&logo=v&logoColor=white" alt="VJudge"/>
   </a>
   <img src="https://img.shields.io/badge/Problems_Solved-3000%2B-brightgreen?style=for-the-badge" alt="Problems Solved"/>
   <img src="https://img.shields.io/badge/ECPC-Finalist-gold?style=for-the-badge" alt="ECPC"/>
@@ -180,14 +183,17 @@ me.say_hi()
   <a href="mailto:yabdalla463@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/sa7afy">
+  <a href="https://www.linkedin.com/in/sa7afy/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/sa7afy">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://codeforces.com/profile/sa7afy">
+  <a href="https://codeforces.com/profile/Sa7afy22">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://vjudge.net/user/Sa7afy">
+    <img src="https://img.shields.io/badge/VJudge-FFA116?style=for-the-badge&logo=v&logoColor=white" alt="VJudge"/>
   </a>
   <a href="tel:+201092569851">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
