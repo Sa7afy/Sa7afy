@@ -14,7 +14,7 @@
 I am a **Backend Software Engineer** specializing in **Python (Django)** and **Java (Spring Boot)**. I have a strong background in building scalable web applications, RESTful APIs, and secure authentication systems.
 
 - 🏆 **Competitive Programmer:** ECPC Finalist & Codeforces Specialist (Max Rating: 1446).
-- 🎓 **Education:** B.Sc. in Computer Science, Cairo University (Expected 2025).
+- 🎓 **Education:** B.Sc. in Computer Science, Cairo University.
 - 💼 **Experience:** Former AI Trainer at Scale AI & Problem Setter at ICPC.
 - 📍 **Location:** Sheikh Zayed, Egypt.
 
