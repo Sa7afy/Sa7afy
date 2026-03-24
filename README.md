@@ -113,35 +113,6 @@ I am also a **Competitive Programmer**, **ECPC Finalist**, and **Codeforces Spec
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sa7afy&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa7afy&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sa7afy&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## 🏅 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sa7afy&theme=flat&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 📊 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sa7afy&theme=github-compact&hide_border=true" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
